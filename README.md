@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Aniela.
-I'm interested in AI, astrology 🪄 and spirituality.
+I'm interested in AI, astrology and spirituality.
+I'm a jupiter 9th house, so I tend to "overlearn" things.
