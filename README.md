@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 I'm interested in AI, astrology, education and spirituality.
 I'm a jupiter 9th house, so I tend to "overlearn" things.
 I decided that I can share with you some tips I would like to know before, maybe it will be useful:
-- 1-believe in yourself.
-- 2-try to find a mentor.
-- 3-you can learn on your own but when you're in groups, you can learn from each other.
-- 4-make mistakes
-- 5-have fun learning. ⭐ My first approach to coding was when I was playing a game.
+- 1. Believe in yourself.
+- 2. Try to find a mentor.
+- 3. You can learn on your own but when you're in groups, you can learn from each other.
+- 4. Make mistakes.
+- 5. Have fun learning. ⭐ My first approach to coding was when I was playing a game.
+- 6. Intuition, if somethings feels wrong, trust your guts
+- 7. Explore other ways of learning,
+- 8. Sometimes, you need to be your own mentor...
