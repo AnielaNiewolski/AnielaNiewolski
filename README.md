@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Aniela.
-I'm interested in AI, astrology and spirituality.
+I'm interested in AI, astrology, education and spirituality.
 I'm a jupiter 9th house, so I tend to "overlearn" things.
+I decided that I can share with you some tips I would like to know before, maybe it will be useful:
+1-believe in yourself.
+2-try to find a mentor.
+3-you can learn on your own but when you're in groups, you can learn from each other.
+4-make mistakes
+5-have fun learning. ⭐
