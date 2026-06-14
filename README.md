@@ -21,6 +21,6 @@ I decided that I can share with you some tips I would like to know before, maybe
 - 3. You can learn on your own but when you're in groups, you can learn from each other.
 - 4. Make mistakes.
 - 5. Have fun learning. ⭐ My first approach to coding was when I was playing a game.
-- 6. Intuition, if somethings feels wrong, trust your guts
+- 6. Intuition, if something feels wrong, trust your guts
 - 7. Explore other ways of learning,
 - 8. Sometimes, you need to be your own mentor...
