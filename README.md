@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Aniela.
 I'm interested in AI, astrology, education and spirituality.
-I'm a jupiter 9th house, so I tend to "overlearn" things.
-I decided that I can share with you some tips I would like to know before, maybe it will be useful:
+I will share with you some tips I would like to know before, maybe it will be useful:
 - 1. Believe in yourself.
 - 2. Try to find a mentor.
 - 3. You can learn on your own but when you're in groups, you can learn from each other.
@@ -25,6 +24,6 @@ I decided that I can share with you some tips I would like to know before, maybe
 - 7. Explore other ways of learning,
 - 8. Sometimes, you need to be your own mentor...
 - 9. Knowledge comes in many ways...
-- 10. I made a "travel" with Jupiter, question your "mentors" and everything...
+- 10. Question your "mentors" and everything...
 
-It was surprising to see such a wisdom planet on his house, I look back trying to find pieces, to make some puzzle... There was a book, a quote said: What do you think? No right or wrong answer, just your answer.
+I look back trying to find pieces, to make some puzzle... There was a book, a quote said: What do you think? No right or wrong answer, just your answer.
