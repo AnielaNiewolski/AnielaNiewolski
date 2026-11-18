@@ -13,15 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Aniela.
-I'm interested in AI, astrology, education and spirituality.
-I will share with you some tips I would like to know before, maybe it will be useful:
-- 1. Believe in yourself.
-- 2. Try to find a mentor.
-- 3. You can learn on your own but when you're in groups, you can learn from each other.
-- 4. Make mistakes.
-- 5. Have fun learning. ⭐ My first approach to coding was when I was playing a game.
-- 6. Intuition, if something feels wrong, trust your guts
-- 7. Explore other ways of learning,
-- 8. Sometimes, you need to be your own mentor...
-- 9. Knowledge comes in many ways...
-- 10. Question your "mentors" and everything...
+
